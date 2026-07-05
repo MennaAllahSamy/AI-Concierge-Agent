@@ -1,0 +1,20 @@
+# Environment & secrets
+.env
+
+# Credentials
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Virtual environments
+.venv/
+venv/
